@@ -1,3 +1,9 @@
+## 1.0.7 (2025-11-15)
+
+## Bug Fixes
+
+- fix linked function error
+
 ## 1.0.6 (2025-10-26)
 
 ## Features
