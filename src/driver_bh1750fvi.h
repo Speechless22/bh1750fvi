@@ -173,7 +173,7 @@ typedef struct bh1750fvi_info_s
  * @param[in] FUC pointer to a debug_print function address
  * @note      none
  */
-#define DRIVER_BH1750FVI_LINK_DEBUG_PEINT(HANDLE, FUC)              (HANDLE)->debug_print = FUC
+#define DRIVER_BH1750FVI_LINK_DEBUG_PRINT(HANDLE, FUC)              (HANDLE)->debug_print = FUC
 
 /**
  * @}

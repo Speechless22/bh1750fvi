@@ -9,7 +9,7 @@ var searchData=
   ['driver_5fbh1750fvi_5fbasic_2eh_6',['driver_bh1750fvi_basic.h',['../driver__bh1750fvi__basic_8h.html',1,'']]],
   ['driver_5fbh1750fvi_5finterface_2eh_7',['driver_bh1750fvi_interface.h',['../driver__bh1750fvi__interface_8h.html',1,'']]],
   ['driver_5fbh1750fvi_5finterface_5ftemplate_2ec_8',['driver_bh1750fvi_interface_template.c',['../driver__bh1750fvi__interface__template_8c.html',1,'']]],
-  ['driver_5fbh1750fvi_5flink_5fdebug_5fpeint_9',['DRIVER_BH1750FVI_LINK_DEBUG_PEINT',['../group__bh1750fvi__link__driver.html#ga665b3d8cea86779934e10f080c9c472a',1,'driver_bh1750fvi.h']]],
+  ['driver_5fbh1750fvi_5flink_5fdebug_5fprint_9',['DRIVER_BH1750FVI_LINK_DEBUG_PRINT',['../group__bh1750fvi__link__driver.html#ga3285fe140a85840b6c1d3a50e96168c3',1,'driver_bh1750fvi.h']]],
   ['driver_5fbh1750fvi_5flink_5fdelay_5fms_10',['DRIVER_BH1750FVI_LINK_DELAY_MS',['../group__bh1750fvi__link__driver.html#gad51b6abd1638ee800d930161b5da6df6',1,'driver_bh1750fvi.h']]],
   ['driver_5fbh1750fvi_5flink_5fiic_5fdeinit_11',['DRIVER_BH1750FVI_LINK_IIC_DEINIT',['../group__bh1750fvi__link__driver.html#ga5c70accf4dab503fec6a48bcb83705d6',1,'driver_bh1750fvi.h']]],
   ['driver_5fbh1750fvi_5flink_5fiic_5finit_12',['DRIVER_BH1750FVI_LINK_IIC_INIT',['../group__bh1750fvi__link__driver.html#gad0d3e8d93d8ff2bc08d2dfaa78d777e3',1,'driver_bh1750fvi.h']]],

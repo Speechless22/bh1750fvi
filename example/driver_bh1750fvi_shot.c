@@ -57,7 +57,7 @@ uint8_t bh1750fvi_shot_init(bh1750fvi_address_t addr_pin)
     DRIVER_BH1750FVI_LINK_IIC_READ_CMD(&gs_handle, bh1750fvi_interface_iic_read_cmd);
     DRIVER_BH1750FVI_LINK_IIC_WRITE_CMD(&gs_handle, bh1750fvi_interface_iic_write_cmd);
     DRIVER_BH1750FVI_LINK_DELAY_MS(&gs_handle, bh1750fvi_interface_delay_ms);
-    DRIVER_BH1750FVI_LINK_DEBUG_PEINT(&gs_handle, bh1750fvi_interface_debug_print);
+    DRIVER_BH1750FVI_LINK_DEBUG_PRINT(&gs_handle, bh1750fvi_interface_debug_print);
     
     /* set the addr pin */
     res = bh1750fvi_set_addr_pin(&gs_handle, addr_pin);
