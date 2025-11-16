@@ -41,8 +41,8 @@ static bh1750fvi_handle_t gs_handle;        /**< bh1750fvi handle */
 
 /**
  * @brief     read test
- * @param[in] addr is the iic device address
- * @param[in] times is the test times
+ * @param[in] addr iic device address
+ * @param[in] times test times
  * @return    status code
  *            - 0 success
  *            - 1 test failed
@@ -64,7 +64,7 @@ uint8_t bh1750fvi_read_test(bh1750fvi_address_t addr, uint32_t times)
     DRIVER_BH1750FVI_LINK_IIC_READ_CMD(&gs_handle, bh1750fvi_interface_iic_read_cmd);
     DRIVER_BH1750FVI_LINK_IIC_WRITE_CMD(&gs_handle, bh1750fvi_interface_iic_write_cmd);
     DRIVER_BH1750FVI_LINK_DELAY_MS(&gs_handle, bh1750fvi_interface_delay_ms);
-    DRIVER_BH1750FVI_LINK_DEBUG_PEINT(&gs_handle, bh1750fvi_interface_debug_print);
+    DRIVER_BH1750FVI_LINK_DEBUG_PRINT(&gs_handle, bh1750fvi_interface_debug_print);
     
     /* get information */
     res = bh1750fvi_info(&info);

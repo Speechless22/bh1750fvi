@@ -1,6 +1,6 @@
 var driver__bh1750fvi_8h =
 [
-    [ "DRIVER_BH1750FVI_LINK_DEBUG_PEINT", "group__bh1750fvi__link__driver.html#ga665b3d8cea86779934e10f080c9c472a", null ],
+    [ "DRIVER_BH1750FVI_LINK_DEBUG_PRINT", "group__bh1750fvi__link__driver.html#ga3285fe140a85840b6c1d3a50e96168c3", null ],
     [ "DRIVER_BH1750FVI_LINK_DELAY_MS", "group__bh1750fvi__link__driver.html#gad51b6abd1638ee800d930161b5da6df6", null ],
     [ "DRIVER_BH1750FVI_LINK_IIC_DEINIT", "group__bh1750fvi__link__driver.html#ga5c70accf4dab503fec6a48bcb83705d6", null ],
     [ "DRIVER_BH1750FVI_LINK_IIC_INIT", "group__bh1750fvi__link__driver.html#gad0d3e8d93d8ff2bc08d2dfaa78d777e3", null ],
